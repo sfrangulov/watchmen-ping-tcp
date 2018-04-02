@@ -1,0 +1,18 @@
+{
+  "name": "watchmen-ping-tcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Frangulov",
+  "license": "ISC",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/sfrangulov/watchmen-ping-tcp.git"
+  },
+  "dependencies": {
+    "tcp-ping": "^0.1.1"
+  }
+}
